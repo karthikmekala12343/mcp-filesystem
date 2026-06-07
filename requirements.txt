@@ -1,0 +1,2 @@
+# No external runtime dependencies; uses Python standard library
+# Add packages here if you introduce third-party libs later
